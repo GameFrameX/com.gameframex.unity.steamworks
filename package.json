@@ -1,0 +1,23 @@
+{
+  "name": "com.gameframex.unity.steamworks",
+  "displayName": "Game Frame X SteamWorks",
+  "category": "Game Framework X",
+  "description": "独立游戏前后端一体化解决方案 https://gameframex.doc.alianblank.com/",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "keywords": [
+    "Game Framework X"
+  ],
+  "repository": {
+    "name": "com.gameframex.unity.timer",
+    "url": "https://github.com/gameframex/com.gameframex.unity.steamworks.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Blank",
+    "email": "alianblank@outlook.com",
+    "url": "https://gameframex.doc.alianblank.com"
+  },
+  "dependencies": {
+  }
+}

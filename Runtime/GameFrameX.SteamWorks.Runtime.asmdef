@@ -1,0 +1,25 @@
+{
+    "name": "GameFrameX.SteamWorks.Runtime",
+    "rootNamespace": "GameFrameX.SteamWorks.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "com.rlabrecque.steamworks.net",
+        "Heathen.Core",
+        "GameFrameX.Setting.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.rlabrecque.steamworks.net",
+            "expression": "",
+            "define": "ENABLE_STEAMWORKS_NET"
+        }
+    ],
+    "noEngineReferences": false
+}
