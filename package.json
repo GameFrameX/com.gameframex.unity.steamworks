@@ -9,7 +9,7 @@
     "Game Framework X"
   ],
   "repository": {
-    "name": "com.gameframex.unity.timer",
+    "name": "com.gameframex.unity.steamworks",
     "url": "https://github.com/gameframex/com.gameframex.unity.steamworks.git",
     "type": "git"
   },
