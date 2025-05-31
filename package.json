@@ -3,7 +3,7 @@
   "displayName": "Game Frame X SteamWorks",
   "category": "Game Framework X",
   "description": "独立游戏前后端一体化解决方案,独立游戏开发者的圆梦大使。\n文档地址: https://gameframex.doc.alianblank.com \n Game Frame X SteamWorks组件 - Unity SteamWorks功能包，提供SteamWorks功能，使SteamWorks功能的使用更加简单高效。",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2019.4",
   "keywords": [
     "Game Framework X"
