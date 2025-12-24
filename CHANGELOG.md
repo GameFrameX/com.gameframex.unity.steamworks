@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.steamworks/compare/1.0.3...1.1.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([3c073ad](https://github.com/gameframex/com.gameframex.unity.steamworks/commit/3c073ade22969e7087cddba44864d4d3ad2751d9))
+
 # Changelog
 
 ## [1.0.3](https://github.com/GameFrameX/com.gameframex.unity.steamworks/tree/1.0.3) (2025-06-01)
