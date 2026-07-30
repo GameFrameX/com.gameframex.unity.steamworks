@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gameframex/com.gameframex.unity.steamworks/compare/1.1.0...1.1.1) (2026-07-30)
+
+
+### Bug Fixes
+
+* **dependencies:** 更新依赖版本以提高兼容性 ([bb8e127](https://github.com/gameframex/com.gameframex.unity.steamworks/commit/bb8e1275196f541f0c57e210320a6c0b421c1f76))
+
 # [1.1.0](https://github.com/gameframex/com.gameframex.unity.steamworks/compare/1.0.3...1.1.0) (2025-12-24)
 
 
